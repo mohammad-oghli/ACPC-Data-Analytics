@@ -13,7 +13,7 @@ It also visualize metrics using Pie and Bar charts
 Check the complete [data anlytics Notebook](acpc_analytics.ipynb) for the study.
 
 
-## Reference
+## References
 
 The dataset used for conducting the study from the official [ICPC platform](https://icpc.global/regionals/results/2024)
 
