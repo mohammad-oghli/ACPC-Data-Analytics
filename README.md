@@ -6,7 +6,7 @@ It contains Expolrity Data Analytics for the result by different metrics includi
 * Top ACPC by Institution for last 5 years
 * Top ACPC 3 teams by Country for the last 5 years
 
-It also visulize metrics using Pie and Bar charts
+It also visualize metrics using Pie and Bar charts
 
 ![Top ACPC by Countries for last 5 years](result/top_countries_bar.png)
 
